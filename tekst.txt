@@ -1,1 +1,2 @@
 pierwsza linijka kodu yoo
+drugi tekst w komicie 1
